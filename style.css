@@ -1,0 +1,42 @@
+h1 { 
+  font-family: 'Harrington';
+  font-size: 64px; color: brown; 
+}
+h2 { 
+  font-family: Arial; 
+  font-size: 25px; color:#460101; 
+}
+ul { 
+  font-family: Harrignton'; 
+  font-size: 25px; color:#212121; 
+  }
+div.a {
+  text-align: center;
+}
+div.b {
+  text-align: left;
+}
+div.c {
+  text-align: right;
+}
+div.c {
+  text-align: justify;
+}
+body {
+  border: 15px solid #460101;
+  padding: 200px;
+  background-color: #f4f0f0;
+p {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+ } 
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+ }
+}
+background-image: url("photographer.jpg");  
